@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FathimaRuzaika
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning msc in software engineering
+- 🌱 I’m currently reading msc in software engineering
 - 💞️ I’m looking to collaborate on development sector
 - 📫 How to reach me: via github
 
